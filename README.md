@@ -112,7 +112,7 @@
   <h2>Usage 🚀</h2>
   <p><strong>1. Compile the Program:</strong></p>
   <div class="code-block">
-    gcc -o registration registration.c student.c
+    gcc -o registration student_registration.c student.c
   </div>
   
   <p><strong>2. Run the Program:</strong></p>
