@@ -9,7 +9,7 @@
 <header>
   <h1>Student Registration Program 📋</h1>
   <p>
-    This program modifies the registration system from Project 9 by splitting the program into two source files and one header file, following modular programming principles.
+    This program modifies the registration system from parts 1 and 2 by splitting the program into two source files and one header file, following modular programming principles.
   </p>
 </header>
 
