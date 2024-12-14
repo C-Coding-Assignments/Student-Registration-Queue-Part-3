@@ -35,7 +35,7 @@
     <ul>
       <li><code>student.c</code>: Contains all functions related to operations on the list of students.</li>
       <li><code>student.h</code>: Contains the <code>student</code> structure declaration and function prototypes for the functions in <code>student.c</code>, enclosed in an <code>#ifndef</code>-<code>#endif</code> pair to protect the file.</li>
-      <li><code>project10_registration.c</code>: Contains the main function.</li>
+      <li><code>student_registration.c</code>: Contains the main function.</li>
     </ul>
     You are allowed to modify all parts of the program.
   </p>
